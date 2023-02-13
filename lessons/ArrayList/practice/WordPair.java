@@ -4,7 +4,7 @@ public class WordPairTest {
      public static void main(String[] args)
      {
          // Create an ArrayList of WordPair objects called pairs
-
+         ArratList<int> pairs = new ArrayList<int>();
 
          pairs.add(new WordPair("hi","there"));
          pairs.add(new WordPair("hi","bye"));
