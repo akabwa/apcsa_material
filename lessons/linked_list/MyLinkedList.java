@@ -13,7 +13,7 @@ public class MyLinkedList{
 
   /* Add a new node which data value to the front of the list */
   public void add(String value){
-
+    Node (value);
   }
 
   /* Returns the value in the node at location index. */
